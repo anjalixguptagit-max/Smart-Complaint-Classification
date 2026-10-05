@@ -84,9 +84,6 @@ Category: Credit Card
 Department: Credit Card Support
 ```
 
-## Team
 
-- Aashish Dhanwani
 - Anjali Gupta
 
-Made for our college hackathon ❤️
