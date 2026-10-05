@@ -2,6 +2,12 @@
 
 A simple ML project that reads customer complaints and predicts the right complaint category and department.
 
+## 🚀 Live Demo
+
+Try the project here:
+
+[Smart Complaint Classification](https://smart-complaint-classification.streamlit.app/)
+
 ## What it does
 
 - Takes a customer complaint as input
